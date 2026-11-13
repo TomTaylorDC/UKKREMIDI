@@ -1,0 +1,16 @@
+body {
+  background-color: bisque;
+}
+
+h1,h2,h3,li,ul {
+    list-style-type: none;
+  color: rgb(82, 38, 38);
+  text-align: center;
+}
+
+table{
+    color: black;
+    text-align: center;
+    margin: auto;
+}
+
